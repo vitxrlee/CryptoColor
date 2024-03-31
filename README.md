@@ -1,6 +1,6 @@
 <h1>CryptoColor <img src=demo/anaconda_final.png width=20></img></h1>
 
-[![python](https://img.shields.io/badge/python->=3.7-blue.svg)](https://www.python.org) [![repo size](https://img.shields.io/github/repo-size/vlHan/CryptoColor)](#) [![build](https://img.shields.io/badge/build-Passing-green)](#) [![license](https://img.shields.io/github/license/vlHan/CryptoColor.svg)](LICENSE)
+[![python](https://img.shields.io/badge/python->=3.7-blue.svg)](https://www.python.org) [![repo size](https://img.shields.io/github/repo-size/vitoryl/CryptoColor)](#) [![build](https://img.shields.io/badge/build-Passing-green)](#) [![license](https://img.shields.io/github/license/vitoryl/CryptoColor.svg)](LICENSE)
 
 RGB Cryptography, which read the bytes from a file and transform this file in RGB list (similar with spectro).
 
@@ -36,10 +36,10 @@ color_edge.append(
 ## Contributors
 See also the list of contributors who participated in this project.
 
-- **[vlHan](https://github.com/vlHan)** - *Idea (Initial work)*
+- **[vitoryl](https://github.com/vitoryl)** - *Idea (Initial work)*
 
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct.
 
 ## License 
-This project is licensed under the MIT License, see the [LICENSE](https://github.com/vlHan/CryptoColor/blob/master/LICENSE) file for details
+This project is licensed under the MIT License, see the [LICENSE](https://github.com/vitoryl/CryptoColor/blob/master/LICENSE) file for details
