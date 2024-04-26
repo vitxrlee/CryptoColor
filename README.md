@@ -2,7 +2,7 @@
 
 [![python](https://img.shields.io/badge/python->=3.7-blue.svg)](https://www.python.org) [![repo size](https://img.shields.io/github/repo-size/vitoryl/CryptoColor)](#) [![build](https://img.shields.io/badge/build-Passing-green)](#) [![license](https://img.shields.io/github/license/vitoryl/CryptoColor.svg)](LICENSE)
 
-RGB Cryptography, which read the bytes from a file and transform this file in RGB list (similar with spectro).
+RGB Cryptography, which reads the bytes from a file and transform this file in RGB list (similar with spectro).
 
 ## How it works 
 - Encoder - transform file to an image (png)
