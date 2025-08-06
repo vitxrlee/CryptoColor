@@ -7,8 +7,6 @@ import numpy
 class Encode:
     """
     Extract data from files and encode them to RGB.
-
-    If you have any error, please report at: https://github.com/vlHan/CryptoColor/issues
     """
     
     def __init__(self, filename):
