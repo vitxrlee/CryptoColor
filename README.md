@@ -33,11 +33,6 @@ color_edge.append(
 ### Final image
 <img src=demo/anaconda_final.png width=200></img>
 
-## Contributors
-See also the list of contributors who participated in this project.
-
-- **[vitoryl](https://github.com/vitoryl)** - *Idea (Initial work)*
-
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct.
 
